@@ -28,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sakshi200525/leetcode_solution/tree/master/0238-product-of-array-except-self) |
+## Math
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Sakshi200525/leetcode_solution/tree/master/0319-bulb-switcher) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Sakshi200525/leetcode_solution/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
