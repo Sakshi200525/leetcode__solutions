@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Sakshi200525/leetcode_solution/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sakshi200525/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Sakshi200525/leetcode_solution/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Sakshi200525/leetcode_solution/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sakshi200525/leetcode_solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sakshi200525/leetcode_solution/tree/master/0540-single-element-in-a-sorted-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Sakshi200525/leetcode_solution/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Sakshi200525/leetcode_solution/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0215-kth-largest-element-in-an-array) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sakshi200525/leetcode_solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sakshi200525/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sakshi200525/leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sakshi200525/leetcode_solution/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -121,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0002-add-two-numbers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
