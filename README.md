@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Sakshi200525/leetcode_solution/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0443-string-compression) |
 ## Linked List
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0394-decode-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
