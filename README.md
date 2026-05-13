@@ -102,10 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0128-longest-consecutive-sequence) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Sakshi200525/leetcode_solution/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Counting
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Sakshi200525/leetcode_solution/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sakshi200525/leetcode_solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0443-string-compression) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Linked List
 |  |
 | ------- |
