@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/1046-last-stone-weight) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Sakshi200525/leetcode_solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1572-matrix-diagonal-sum](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/1572-matrix-diagonal-sum) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Sakshi200525/leetcode_solution/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sakshi200525/leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sakshi200525/leetcode_solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -192,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0287-find-the-duplicate-number) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
