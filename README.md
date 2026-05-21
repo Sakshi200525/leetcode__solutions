@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Sakshi200525/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Sakshi200525/leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sakshi200525/leetcode_solution/tree/master/0053-maximum-subarray) |
+| [0059-spiral-matrix-ii](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Sakshi200525/leetcode_solution/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Sakshi200525/leetcode_solution/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0128-longest-consecutive-sequence) |
@@ -197,10 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
