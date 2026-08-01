@@ -1,5 +1,5 @@
-class Solution:
-    def isPalindrome(self, s: str) -> bool:
+class Solution(object):
+    def isPalindrome(self, s):
         l, r = 0, len(s) - 1
         
         while l < r:
@@ -15,7 +15,7 @@ class Solution:
             
         return True
 
-    def alphaNum(self, c: str) -> bool:
+    def alphaNum(self, c):
         return (ord('A') <= ord(c) <= ord('Z') or 
                 ord('a') <= ord(c) <= ord('z') or 
                 ord('0') <= ord(c) <= ord('9'))
