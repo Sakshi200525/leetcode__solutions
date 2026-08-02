@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sakshi200525/leetcode_solution/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sakshi200525/leetcode_solution/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sakshi200525/leetcode_solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Sakshi200525/leetcode_solution/tree/master/0162-find-peak-element) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sakshi200525/leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sakshi200525/leetcode_solution/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
