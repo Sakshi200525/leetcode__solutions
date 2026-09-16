@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Sakshi200525/leetcode_solution/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0176-second-highest-salary) |
 ## String
 |  |
 | ------- |
