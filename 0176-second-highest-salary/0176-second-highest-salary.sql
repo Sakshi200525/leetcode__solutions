@@ -6,3 +6,4 @@ WHERE salary < (
     SELECT MAX(salary)
     FROM Employee
 )
+
