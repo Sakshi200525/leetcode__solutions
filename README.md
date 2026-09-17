@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sakshi200525/leetcode_solution/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/Sakshi200525/leetcode_solution/tree/master/0319-bulb-switcher) |
+| [0412-fizz-buzz](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0412-fizz-buzz) |
 ## Brainteaser
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0443-string-compression) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1446-consecutive-characters](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/1446-consecutive-characters) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0867-transpose-matrix) |
 ## Number Theory
 |  |
