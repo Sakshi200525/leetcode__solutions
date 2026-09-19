@@ -7,9 +7,9 @@ class Solution:
             temp //= 10
             rev = rev * 10 + r
 
-        if rev == x:
-            return True
-        else: return False
+        # if rev == x:
+        #     return True
+        # else: return False
 
-        return rev
+        return rev==x
         
