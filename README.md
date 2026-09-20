@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/1046-last-stone-weight) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Sakshi200525/leetcode_solution/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1572-matrix-diagonal-sum](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/1572-matrix-diagonal-sum) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Sakshi200525/leetcode_solution/tree/master/1800-maximum-ascending-subarray-sum) |
