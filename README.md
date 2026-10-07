@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sakshi200525/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Sakshi200525/leetcode_solution/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Sakshi200525/leetcode_solution/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sakshi200525/leetcode_solution/tree/master/0334-increasing-triplet-subsequence) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sakshi200525/leetcode_solution/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Sakshi200525/leetcode_solution/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0242-valid-anagram) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sakshi200525/leetcode_solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0881-boats-to-save-people) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Sakshi200525/leetcode_solution/tree/master/1394-find-lucky-integer-in-an-array) |
